@@ -4,10 +4,9 @@
 ### 1. iklan 
 ### 2. langganan premium
 ### 3. website yang berpotensi memberi harm pada laptop
-<br>
+<br><br>
 
 **berikut adalah output toolnya:**  
-<br>
       
 > output file triaztranskipyoutube.ipynb
 
