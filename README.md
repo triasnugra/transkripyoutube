@@ -7,7 +7,8 @@
 
 
 
-  **berikut adalah output toolnya:**
+
+**berikut adalah output toolnya:**
       
 > output file triaztranskipyoutube.ipynb
 
