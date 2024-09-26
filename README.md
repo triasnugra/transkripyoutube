@@ -5,12 +5,13 @@ _by Triaz_
 ### 2. langganan premium
 ### 3. website yang berpotensi memberi harm pada laptop
 
-  
-**berikut adalah output toolnya:**
+
+  **berikut adalah output toolnya:**
 > output file triaztranskipyoutube.ipynb
+
 [study hacks ala maudy ayunda](https://www.youtube.com/watch?v=OIa5zbXbiqo)
  
-![dengan line breaks] (https://github.com/triasnugra/transkripyoutube/blob/main/assets/maudytranskrip.png)
+![dengan line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/maudytranskrip.png)
 
 
   
