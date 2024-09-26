@@ -3,11 +3,12 @@
 ### tool ini untuk menghindari:
 ### 1. iklan 
 ### 2. langganan premium
-### 3. website yang berpotensi memberi harm pada laptop
+### 3. website yang berpotensi memberi harm pada laptop  
 
 
-  
+
   **berikut adalah output toolnya:**
+      
 > output file triaztranskipyoutube.ipynb
 
 video: [study hacks ala maudy ayunda](https://www.youtube.com/watch?v=OIa5zbXbiqo)
