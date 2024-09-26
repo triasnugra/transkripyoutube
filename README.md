@@ -5,9 +5,7 @@
 ### 2. langganan premium
 ### 3. website yang berpotensi memberi harm pada laptop  
 
-
-
-
+<br>
 **berikut adalah output toolnya:**
       
 > output file triaztranskipyoutube.ipynb
@@ -15,7 +13,7 @@
 video: [study hacks ala maudy ayunda](https://www.youtube.com/watch?v=OIa5zbXbiqo)
 
 
-:pushpin: output dengan line breaks
+:pushpin: output dengan line breaks:smile:
 ![dengan line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/maudytranskrip.png)
   
 
@@ -25,6 +23,6 @@ video: [study hacks ala maudy ayunda](https://www.youtube.com/watch?v=OIa5zbXbiq
 video: [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM)
 
 
-:pushpin: output tanpa line breaks
+:pushpin: output tanpa line breaks:smile:
 ![tanpa line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/mittranskrip.png)
   
