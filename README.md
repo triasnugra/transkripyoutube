@@ -6,7 +6,7 @@
 ### 3. website yang berpotensi memberi harm pada laptop  
 
 <br>
-**berikut adalah output toolnya:**
+**berikut adalah output toolnya:**<br>
       
 > output file triaztranskipyoutube.ipynb
 
