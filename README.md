@@ -20,4 +20,4 @@ _by Triaz_
 
 [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM)
  
-![tanpa line breaks] (https://github.com/triasnugra/transkripyoutube/blob/main/assets/mittranskrip.png)
+![tanpa line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/mittranskrip.png)
