@@ -11,7 +11,7 @@ _by Triaz_
 > output file triaztranskipyoutube.ipynb
 
 [study hacks ala maudy ayunda](https://www.youtube.com/watch?v=OIa5zbXbiqo)
- 
+ output dengan line breaks
 ![dengan line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/maudytranskrip.png)
 
 
@@ -19,5 +19,5 @@ _by Triaz_
 > output file triaztranskipyt_removelinebreaks.ipynb
 
 [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM)
- 
+ output tanpa line breaks
 ![tanpa line breaks](https://github.com/triasnugra/transkripyoutube/blob/main/assets/mittranskrip.png)
