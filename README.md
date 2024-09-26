@@ -6,6 +6,7 @@ _by Triaz_
 ### 3. website yang berpotensi memberi harm pada laptop
 
 
+  
   **berikut adalah output toolnya:**
 > output file triaztranskipyoutube.ipynb
 
@@ -16,6 +17,7 @@ _by Triaz_
 
   
 > output file triaztranskipyt_removelinebreaks.ipynb
+
 [MIT Introduction to Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM)
  
 ![tanpa line breaks] (https://github.com/triasnugra/transkripyoutube/blob/main/assets/mittranskrip.png)
